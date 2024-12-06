@@ -5,11 +5,22 @@
 h1{
     text-align: center;
     background-color: rgb(0, 255, 255);
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
 }
 img{
     width: 300px;
     height: 200px;
+    
 }
 div{
     background-color: rgb(128, 0, 255);
+}
+
+.zzz{
+    background-color: white;
 }
