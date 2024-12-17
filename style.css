@@ -2,25 +2,84 @@
   margin: 0;  
   padding: 0;
 }
-h1{
-    text-align: center;
-    background-color: rgb(0, 255, 255);
-    font-family: "Open Sans", sans-serif;
+.showroom
+{
+     text-align: center;
+    background-color: #39ebff;
+    height: 115px;
+    font-size: 40px;
+    margin:0 0 30px; 
+
+}
+
+h1
+{
+    font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-}
-img{
-    width: 300px;
-    height: 200px;
-    
-}
-div{
-    background-color: rgb(128, 0, 255);
 }
 
-.zzz{
+p{
+
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+    font-size: 24px;
+
+}
+
+body{
+width: 100%;
+height: 100%;
+margin: 0;
+}
+
+h2{
+
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 6px ;
+    margin-bottom: 10px;
+}
+
+.sneakers{
+
+    background-color: #b55ff2;
+    padding-left: 16%;
+    height: 800px;   
+}
+
+img{
+
+    width: 300px;
+    height: 200px;
+
+}
+
+#white{
     background-color: white;
+}
+
+
+
+td{
+
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200px;
+    font-style: normal;
+    font-size: 24px;
+}
+
+td{
+    height: 300px;
+    width: 330px;
+    border: 10px solid #b55ff2 ;
 }
